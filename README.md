@@ -9,7 +9,7 @@ account:
 
   # 略……
   
-  sign-server: '-' # sign服务器的IP或域名
+  sign-server: 'http://127.0.0.1:8080' # sign服务器的IP或域名
   sign-server-key: '114514'  # sign服务器的key
   cmdId: '810_9' # QQ发送登录包的CmdId和SubCmdId，例子中810是登陆CmdId，9是SubCmdId，这里810_9不建议改
 
