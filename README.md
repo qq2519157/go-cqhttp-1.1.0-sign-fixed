@@ -2,7 +2,7 @@
 修复了sign服务器不能在gocq中使用的问题
 
 对config进行了一点添加,如下
-`
+<code lang="json">
 # 略……
 account: # 账号相关
   uin: 1233456 # QQ账号
@@ -15,4 +15,4 @@ account: # 账号相关
   cmdId: '810_9' # QQ发送登录包的CmdId和SubCmdId，例子中810是登陆CmdId，9是SubCmdId
 
 # 略……
-`
+</code>
