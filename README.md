@@ -1,6 +1,6 @@
-# 已有人提供过pull request
-请前往:
-https://github.com/KomeiDiSanXian/go-cqhttp
+# 已有人提供过PR
+请前往
+> https://github.com/Mrs4s/go-cqhttp/actions/runs/5504923059
 
 原项目地址为<a href="https://github.com/Mrs4s/go-cqhttp">https://github.com/Mrs4s/go-cqhttp</a>
 修复了sign服务器不能在gocq中使用的问题
